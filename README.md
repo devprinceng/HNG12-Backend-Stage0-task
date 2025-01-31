@@ -47,6 +47,11 @@ This project is a simple PUBLIC API that returns basic user data which includes:
 
 ## API Documentation
 
+### **Base URL:**  
+```
+localhost:3000
+```
+
 ### Endpoint
 - **URL:** `/`
 - **Method:** `GET`
