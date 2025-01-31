@@ -1,0 +1,28 @@
+{
+  "name": "hng12-backend-stage0-task",
+  "version": "1.0.0",
+  "description": "This is a simple public API for HNG12 Stage 0. It provides my basic information such as name, current time and repo link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devprinceng/HNG12-Backend-Stage0-task.git"
+  },
+  "keywords": [
+    "hng",
+    "api",
+    "internship",
+    "task0"
+  ],
+  "author": "Prince Ojoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devprinceng/HNG12-Backend-Stage0-task/issues"
+  },
+  "homepage": "https://github.com/devprinceng/HNG12-Backend-Stage0-task#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
