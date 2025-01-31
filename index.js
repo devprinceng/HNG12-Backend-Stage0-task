@@ -6,8 +6,7 @@ dotenv.config();
 const PORT = process.env.PORT || 3000;
 //* set my required details
 const EMAIL = "devprinceng@gmail.com";
-const GITHUB_URL =
-  "https://github.com/devprinceng/HNG12-Backend-Stage0-task.git";
+const GITHUB_URL = "https://github.com/devprinceng/HNG12-Backend-Stage0-task";
 
 //* create a server, and our get endpoint as well
 const server = http.createServer((req, res) => {

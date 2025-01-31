@@ -49,7 +49,7 @@ This project is a simple PUBLIC API that returns basic user data which includes:
 
 ### **Base URL:**  
 ```
-localhost:3000
+https://hng12-backend-stage0-task.onrender.com/
 ```
 
 ### Endpoint
@@ -68,7 +68,7 @@ localhost:3000
 
 ### Example Usage
 ```bash
-curl -X GET http://localhost:3000
+curl -X GET https://hng12-backend-stage0-task.onrender.com/
 ```
 
 ### Example Response
